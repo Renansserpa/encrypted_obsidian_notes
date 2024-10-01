@@ -1,0 +1,18 @@
+{
+  "cryptsidian:open-encrypt-modal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "cryptsidian:open-decrypt-modal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ]
+}

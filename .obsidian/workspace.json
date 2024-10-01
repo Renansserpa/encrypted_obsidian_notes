@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "2518399a732d941e",
+    "type": "split",
+    "children": [
+      {
+        "id": "121de5add5d3a9a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0e54b783cb23f51",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b168cc9a5d04feee",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdaf923fd9e46f2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0fc7b1419dc85ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebd1b7d4664a6a06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b64b387ad6b2863",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd8ac71ea705b47d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1457b3c85bdb7fd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e32bb28c26e3e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "026a0d1f2073b7d9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e0e54b783cb23f51",
+  "lastOpenFiles": [
+    "AWS/S3/s3 🧺.md",
+    "'Aula.md",
+    "Aula.md",
+    "[[Aula.md",
+    "[Aula.md",
+    "Welcome.md",
+    "create a link.md",
+    "AWS/S3/Aula Fiap (S3, Lake Storage e Cloud Storage).pdf",
+    "[s3.md",
+    "AWS/S3",
+    "AWS"
+  ]
+}
