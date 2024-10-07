@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "121de5add5d3a9a4",
+        "id": "fe588bea18c9d8ad",
         "type": "tabs",
         "children": [
           {
-            "id": "e0e54b783cb23f51",
+            "id": "b31bb15b4a626db2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -113,16 +112,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0e54b783cb23f51",
+  "active": "d0fc7b1419dc85ba",
   "lastOpenFiles": [
+    "AWS/IAM/IAM 👨‍✈️.md",
     "AWS/S3/s3 🧺.md",
+    "AWS/S3/Aula Fiap (S3, Lake Storage e Cloud Storage).pdf",
+    "AWS/IAM",
     "'Aula.md",
     "Aula.md",
     "[[Aula.md",
     "[Aula.md",
     "Welcome.md",
     "create a link.md",
-    "AWS/S3/Aula Fiap (S3, Lake Storage e Cloud Storage).pdf",
     "[s3.md",
     "AWS/S3",
     "AWS"
