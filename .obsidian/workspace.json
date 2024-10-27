@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe588bea18c9d8ad",
+        "id": "0a353fd0abdc9b2b",
         "type": "tabs",
         "children": [
           {
-            "id": "b31bb15b4a626db2",
+            "id": "bd4c9ad72917b249",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#aws",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,11 +112,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0fc7b1419dc85ba",
+  "active": "bd4c9ad72917b249",
   "lastOpenFiles": [
     "AWS/IAM/IAM 👨‍✈️.md",
     "AWS/S3/s3 🧺.md",
+    "AWS/Lambda/Lambda λ.md",
+    "AWS/Lambda/Aula Fiap (Lambda).pdf",
+    "AWS/Lambda/Aula Fiap (S3, Lake Storage e Cloud Storage).pdf",
+    "AWS/Lambda/POSTECH - Aula 4 - AWS LAMBDA.pdf",
+    "AWS/Athena/Athena🏛.md",
+    "AWS/Lambda",
+    "AWS/Athena/Aula Fiap (Athena).pdf",
     "AWS/S3/Aula Fiap (S3, Lake Storage e Cloud Storage).pdf",
+    "Pasted image 20241019174803.png",
+    "AWS/Athena",
     "AWS/IAM",
     "'Aula.md",
     "Aula.md",
